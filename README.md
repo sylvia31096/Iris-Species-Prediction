@@ -1,2 +1,2 @@
-# K-nearest-Neighbors-Classifier
-This is just a simple k-nearest classifier. It may contain many errors.
+# Iris Dataset
+Predicting iris species using k nearest classifier.
